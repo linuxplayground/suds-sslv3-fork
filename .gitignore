@@ -1,2 +1,4 @@
 *.pyc
 getVMList.py
+ovm-wsapi.py
+
